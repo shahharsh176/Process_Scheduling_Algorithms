@@ -17,6 +17,7 @@ Platform:
 Linux Operating System.
 
 How to Run this program:
+
 cc -pthread simulator.c
 ./a.out
 
