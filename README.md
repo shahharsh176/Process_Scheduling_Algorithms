@@ -19,6 +19,7 @@ Linux Operating System.
 How to Run this program:
 
 cc -pthread simulator.c
+
 ./a.out
 
 After run the program:
