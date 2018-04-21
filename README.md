@@ -18,9 +18,9 @@ Linux Operating System.
 
 How to Run this program:
 
-cc -pthread simulator.c
+    cc -pthread simulator.c
 
-./a.out
+    ./a.out
 
 After run the program:
 Select one of algorithm which you want to run your processes.
