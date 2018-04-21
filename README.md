@@ -17,7 +17,8 @@ Platform:
 Linux Operating System.
 
 How to Run this program:
-gcc -o simulator simulator.c -lm
+cc -pthread simulator.c
+./a.out
 
 After run the program:
 Select one of algorithm which you want to run your processes.
