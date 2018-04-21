@@ -1,0 +1,4 @@
+processes/process4.txt process's  Arrival Time:1.000000 Waiting Time:0.000000 cpu_burst_time:1.000000
+processes/process3.txt process's  Arrival Time:2.000000 Waiting Time:1.000000 cpu_burst_time:3.000000
+processes/process1.txt process's  Arrival Time:3.000000 Waiting Time:4.000000 cpu_burst_time:3.000000
+processes/process2.txt process's  Arrival Time:4.000000 Waiting Time:7.000000 cpu_burst_time:4.000000
